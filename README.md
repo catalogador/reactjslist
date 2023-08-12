@@ -3,6 +3,13 @@
 Aqui eu preparei uma lista de tarefas com algumas funções.
 
 
+##Instruções
+
+* 1 - cd ./todo -
+* 2 - npm i - 
+* 3 - npm run dev - 
+
+
 # Busca
 
 Você pode efetuar uma busca por suas tarefas por nome.
